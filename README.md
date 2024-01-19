@@ -1,0 +1,14 @@
+# missi_phone_global-user 13 TKQ1.221114.001 V14.0.6.0.TNRMIXM release-keys
+- manufacturer: xiaomi
+- platform: parrot
+- codename: garnet
+- flavor: missi_phone_global-user
+- release: 13
+- id: TKQ1.221114.001
+- incremental: V14.0.6.0.TNRMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/garnet/garnet:13/SKQ1.230401.001/V14.0.6.0.TNRMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_global-user-13-TKQ1.221114.001-V14.0.6.0.TNRMIXM-release-keys
+- repo: redmi_garnet_dump
